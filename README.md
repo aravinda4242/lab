@@ -1,2 +1,3 @@
 # lab
-project
+This is my 1st Repository
+author-Aravinda
